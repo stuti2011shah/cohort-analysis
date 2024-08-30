@@ -1,6 +1,4 @@
-Here is the `README.md` content ready for you to paste:
 
-```markdown
 # Online Retail Cohort Analysis
 
 This project is focused on performing a cohort analysis on an online retail dataset. The analysis aims to provide insights into customer retention rates and purchasing behaviors over time. The project involves data preprocessing, cleaning, and visualization using Python libraries.
@@ -31,7 +29,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib seaborn
-```
+
 
 ## Usage
 
@@ -87,3 +85,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 ```
 
+You can now paste this content into your `README.md` file.
