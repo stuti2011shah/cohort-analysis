@@ -35,9 +35,8 @@ pip install numpy pandas matplotlib seaborn
 
 1. **Clone the Repository**: First, clone this repository to your local machine.
 
-    ```bash
-    git clone https://github.com/yourusername/online-retail-cohort-analysis.git
-    ```
+  git clone https://github.com/yourusername/online-retail-cohort-analysis.git
+
 
 2. **Navigate to the Project Directory**:
 
@@ -85,4 +84,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 ```
 
-You can now paste this content into your `README.md` file.
